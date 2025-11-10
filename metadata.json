@@ -1,0 +1,5 @@
+{
+  "name": "Edge Insights",
+  "description": "A real-time analytics platform to monitor your website's Core Web Vitals, built on React and powered by mock Cloudflare services. This dashboard visualizes key performance metrics to help developers build a better, faster Internet.",
+  "requestFramePermissions": []
+}
